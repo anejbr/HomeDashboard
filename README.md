@@ -1,6 +1,6 @@
 # HomeDashboard
 
-Nadzorna plošča za uporavljanje naprav in spremljanje stanja v hiši.
+Nadzorna plošča za upravljanje pametnih naprav in spremljanje stanja v hiši.
 
 ## [WiFi SonOff termostat TH16 + Senzor](https://www.wlan-sat.com/wifi-sonoff-termostat-th16-senzor)
 
