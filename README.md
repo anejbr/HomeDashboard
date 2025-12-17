@@ -62,7 +62,11 @@ Home Assistant je odprtokodna platforma za avtomatizacijo pametnega doma. Omogo�
 ![mqtt_primer](./docs/mqtt_primer.png)
 - Lokalno delovanje
 ![mqtt_local](./docs/starting_home_assistant.png)
-- Veliko razširljivost
+- Velika razširljivost
+- Mobilna naprava
+
+    <img src="./docs/ha_mobile.jpg" alt="ha_mobile" width="250"/>
+
 - Beleženje zgodovine
 ![mqtt_primer](./docs/ha_beleženje_zgodovine.png)
 
